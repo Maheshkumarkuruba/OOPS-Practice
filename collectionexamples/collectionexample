@@ -1,0 +1,11 @@
+ 		1-->	in ArrayList,vector and LinkedList by default it is not naturalsorting because underlying datastructure is resizable Array
+ 			so that why we are using Collection.sort() here to sort the elements
+ 			
+ 		2-->	TreeSet by default it is naturalsorting because underlyingdatasture is binarysearch it follow the in order teqnique
+ 			so we are not use any Collectios.sort() here
+ 			
+ 		3-->	where as other dadastructures in the collection we are going to use the comparator interface and compare method to sort the elements
+ 		
+ 		4-->    for HashSet and LinkedHashSet either natural or custome sortings are not done to do sorting we need to convert into ArrayList
+ 				 then using comparable-->comparTo-->Collections.sort() we can sort it
+ 			

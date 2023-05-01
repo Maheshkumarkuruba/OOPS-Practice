@@ -1,0 +1,24 @@
+kjnkdn
+kjdnksn
+skdvn
+tree is the hirarchiel and non linear data structure which is consist of nodes the each node is connected via edges 
+root node
+the top most node in the tree datastucture is called root node as and it doesnot consist of any parent node
+parent node
+a node which is consist of child is called parent node
+chile node
+the immediate succeer of the node is called as child node ex)
+leaf node or external node
+a nodes which doesnot consist of any child nodes is called as leaf node  or external node
+sibings
+the children of the same parent node is called siblings
+subtree
+any node of the tree along with the childe node is called subtree
+no of edges
+no of edges is given by no of node-1 
+depth of the node
+depth of the node is consider as length of the path from root node to current node 
+height of the node
+it is given by the longest path from current node to leaf node
+height of the tree
+the longest path from root node to leaf node
